@@ -18,7 +18,7 @@ Here are some of the projects I have worked on:
 - **SimpleRishta Recommender Engine** – AI-based matchmaking system improving user matches by 30%.  
 - **User Data Validation Microservice** – Enhanced security by reducing fraud by 25%.  
 - **AI-Powered E-commerce Recommender** – Hybrid recommendation engine for product suggestions.  
-- **AQUASYS Intelligence** – AI-based interview automation system.  
+- **AQUSYS Intelligence** – AI-based interview automation system.  
 - **AI Art Restorer** – An AI-driven image restoration project.  
 
 Check out my repositories for more details! 🚀  
