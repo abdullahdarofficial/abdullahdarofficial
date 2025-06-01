@@ -6,7 +6,7 @@
 - 📫 Reach me at abdullah.dar.official@outlook.com.  
 
 ### 🌐 Connect with Me:  
-- **Portfolio:** [abdullahdarofficial.github.io](https://abdullahdarofficial.github.io/)   
+- **Portfolio:** [abdullahdar.com](https://abdullahdar.com)   
 - **LinkedIn:** [linkedin.com/in/abdullahdarofficial](https://www.linkedin.com/in/abdullahdarofficial)  
 
 ### 🚀 Projects  
