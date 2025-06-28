@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on AI, ML, and software development.  
 - 🌱 Exploring advanced AI models and SaaS solutions.  
-- 📫 Reach me at abdullah.dar.official@outlook.com.  
+- 📫 Reach me at abdullah.dar.official@hotmail.com.  
 
 ### 🌐 Connect with Me:  
 - **Portfolio:** [abdullahdar.com](https://abdullahdar.com)   
