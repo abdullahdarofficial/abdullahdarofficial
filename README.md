@@ -1,4 +1,4 @@
-Hi, I'm Abdullah Dar 👋
+<h1 align="center" style="font-size: 50px;">Hi, I'm Abdullah Dar 👋</h1>
 Welcome to my GitHub profile!
 
 🏢 Founder & Chief AI Architect at Devantix Labs – Engineering AI for a smarter tomorrow.
