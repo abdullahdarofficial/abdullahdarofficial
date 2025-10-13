@@ -69,11 +69,6 @@
 <hr>
 
 
-
-
-
-
-
 <p align="center">
   <em>Let’s build the future of your business with AI.</em>
   <br>
