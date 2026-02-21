@@ -27,7 +27,7 @@ I'm an **AI Engineer** specializing in building production-grade intelligent sys
 
 I've delivered 25+ systems across **healthcare, fintech, e-commerce, education, and enterprise** domains — from initial architecture to live deployment.
 
-> 📅 [Book a 15-min AI Strategy Call]([https://www.abdullahdar.com](https://calendly.com/abdullah-abdullahdar/new-meeting) · 🌐 [Portfolio](https://www.abdullahdar.com)
+> 📅 [Book a 15-min AI Strategy Call](https://calendly.com/abdullah-abdullahdar/new-meeting) · 🌐 [Portfolio](https://www.abdullahdar.com)
 
 ---
 
