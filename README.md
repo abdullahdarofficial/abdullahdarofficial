@@ -1,135 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:7c6cfa&height=200&section=header&text=Abdullah%20Dar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Chief%20AI%20Architect%20%7C%20Devantix%20Labs&descAlignY=58&descSize=17&descColor=c0d8f0" width="100%"/>
-
-<h3>Engineering AI for a Smarter Tomorrow</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:7c6cfa&height=200&section=header&text=Abdullah%20Dar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20AI%20Agents%20%C2%B7%20Recommender%20Systems&descAlignY=58&descSize=16&descColor=c0d8f0" width="100%"/>
 
 <p>
-  <a href="https://www.devantixlabs.com">
-    <img src="https://img.shields.io/badge/🌐_devantixlabs.com-0d1117?style=for-the-badge&labelColor=00c2ff&color=0d1117"/>
-  </a>
-  <a href="mailto:abdullah@devantixlabs.com">
-    <img src="https://img.shields.io/badge/✉️_abdullah@devantixlabs.com-0d1117?style=for-the-badge&labelColor=7c6cfa&color=0d1117"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://www.abdullahdar.com"><img src="https://img.shields.io/badge/🌐_abdullahdar.com-0d1117?style=for-the-badge&labelColor=00c2ff&color=0d1117"/></a>
+  <a href="mailto:abdullah@abdullahdar.com"><img src="https://img.shields.io/badge/✉️_abdullah@abdullahdar.com-0d1117?style=for-the-badge&labelColor=7c6cfa&color=0d1117"/></a>
+  <a href="https://wa.me/923258104949"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Full--Stack-00c2ff?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Exploring-RAG%20%7C%20AI%20Agents%20%7C%20SaaS-7c6cfa?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years%20AI%20Engineering-00c2ff?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Delivered-25%2B%20Production%20Systems-7c6cfa?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Scalable%20AI%20Architecture-00c2ff?style=flat-square"/>
 </p>
 
 </div>
 
 ---
 
-## 🎯 Mission
+## 👋 About Me
 
-> *"Let's build smart AI — scale faster. Work smarter."*
+I'm an **AI Engineer** specializing in building production-grade intelligent systems. I design and deploy **LLM applications**, **RAG pipelines**, **AI agents**, and **recommendation engines** that transform data into scalable, real-world solutions.
 
-I help organizations eliminate inefficiency through intelligent AI automation — cutting costs, boosting productivity, and transforming raw data into decisions that drive measurable growth.
+I've delivered 25+ systems across **healthcare, fintech, e-commerce, education, and enterprise** domains — from initial architecture to live deployment.
+
+> 📅 [Book a 15-min AI Strategy Call](https://www.abdullahdar.com) · 🌐 [Portfolio](https://www.abdullahdar.com)
 
 ---
 
-## 🚀 How I Deliver Business Impact
+## 🛠️ What I Build
 
-| Capability | What I Build |
+| Service | Description |
 |---|---|
-| 🤖 **AI Agents & Automation** | Workflow automation across support, finance, HR, compliance & supply chain using LangChain, LangGraph & n8n |
-| 🔍 **RAG & Knowledge Retrieval** | Context-aware AI systems with real-time enterprise data via LLM Prompt Engineering & Retrieval-Augmented Generation |
-| 🎯 **Recommendation Systems** | AI-driven engines for e-commerce & content platforms using collaborative filtering, embeddings & hybrid techniques |
-| ✍️ **Generative AI for Growth** | Content automation, market research, and intelligent chatbots powered by the latest foundation models |
-| 🏗️ **Enterprise AI Integrations** | Full-stack AI apps using GPT-4o, LLaMA 3, Claude, Gemini, Mistral & custom LLMs |
-| ☁️ **Scalable AI Deployments** | Production-grade AI SaaS on AWS, Azure & GCP with Python, FastAPI, Docker, Kubernetes & CI/CD |
+| 🧠 **LLM & RAG Systems** | Context-aware AI with real-time retrieval — document QA, knowledge bases, semantic search |
+| 🤖 **AI Agents & Automation** | Multi-step autonomous workflows across support, finance, HR, compliance & operations |
+| 📦 **AI Product Engineering** | End-to-end intelligent products from architecture to cloud deployment |
+| 🎯 **Recommendation Engines** | Collaborative filtering, embeddings & hybrid systems for e-commerce and content platforms |
+| 📊 **Predictive ML Systems** | Forecasting, anomaly detection, churn modeling, and revenue intelligence |
 
 ---
 
-## 🏆 Why Organizations Trust Me
+## ⚙️ Technical Skills
 
-- ✅ **Enterprise-ready** — expertise that delivers well beyond prototypes into production
-- ✅ **Deep engineering** — LLM fine-tuning, RAG pipelines, and scalable AI architectures
-- ✅ **Results-first** — solving real business problems from day one, not just building demos
-- ✅ **Always current** — continuously integrating cutting-edge AI research and tooling
-
----
-
-## 📌 Recent Projects Delivered
-
-<table>
-  <tr>
-    <td><b>🧑‍💼 AI in Hiring</b></td>
-    <td>LLM-powered voice interview assistant for real-time candidate assessment and automated scoring</td>
-  </tr>
-  <tr>
-    <td><b>💰 AI in Finance</b></td>
-    <td>Automated accounting workflows with anomaly detection and revenue forecasting</td>
-  </tr>
-  <tr>
-    <td><b>🎓 AI in Education</b></td>
-    <td>RAG-based assistant that converts lectures into searchable, queryable knowledge bases</td>
-  </tr>
-  <tr>
-    <td><b>✈️ AI in Food & Travel</b></td>
-    <td>Personalized recommendation assistant for curated food and travel experiences</td>
-  </tr>
-  <tr>
-    <td><b>🎁 AI in E-commerce</b></td>
-    <td>Conversational AI delivering personalized gift recommendations at scale</td>
-  </tr>
-</table>
-
----
-
-## 📂 Notable Projects
-
-| Project | Description |
-|---|---|
-| **Field Alpha** | AI-powered scheduling & intelligent routing platform |
-| **Presents Chat** | Conversational AI gift recommendation engine |
-| **Lexium AI** | RAG-powered study assistant for interactive learning |
-| **FASTInfoBot** | University chatbot for real-time student query resolution |
-| **SimpleRishta Engine** | AI matchmaking system — 30% improvement in match quality |
-| **AQUSYS Intelligence** | End-to-end AI interview automation system |
-| **AI Art Restorer** | Neural network-based image restoration pipeline |
-
----
-
-## 🧰 Tech Stack
-
-**AI / ML**
+**AI & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-Advanced-00c2ff?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Advanced-00c2ff?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Advanced-00c2ff?style=flat-square)
+![Recommenders](https://img.shields.io/badge/Recommenders-Advanced-00c2ff?style=flat-square)
+![ML](https://img.shields.io/badge/Machine%20Learning-Advanced-00c2ff?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Intermediate-7c6cfa?style=flat-square)
+
+**Frameworks & Models**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7c6cfa?style=flat-square)
 
-**Backend & Frontend**
+**Systems & Deployment**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Intermediate-7c6cfa?style=flat-square)
 
-**Cloud & Infrastructure**
+---
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+## 📌 Selected Projects
+
+| Project | Domain | Description |
+|---|---|---|
+| **Onco Sight AI** | Healthcare | AI-powered oncology diagnostics and clinical decision support |
+| **AQUSYS Intelligence** | HR Tech | End-to-end AI interview automation & candidate scoring |
+| **Lexium AI** | Education | RAG-powered study assistant — lectures into searchable knowledge |
+| **Presents Chat** | E-commerce | Conversational AI for personalized gift recommendations |
+| **Azure Voyage** | Travel | Personalized AI travel planning & recommendation engine |
+| **Intelligent Real Estate Engine** | PropTech | AI-driven property matching and market analysis |
+| **Dumplin AI** | Food Tech | AI-powered food discovery and personalization platform |
+| **FASTInfoBot** | Education | University chatbot for real-time student query resolution |
+| **SimpleRishta Recommender** | Social | AI matchmaking engine — 30% improvement in match quality |
+| **Spectorals** | Enterprise | AI-integrated business intelligence platform |
+
+---
+
+## 💬 What Clients Say
+
+> *"You won't regret working with Abdullah. After wasting money on the wrong team, I finally found the right one. He's knowledgeable and committed to doing things the right way."*
+> — **Kevin Sanchez**
+
+> *"Been working with this team for months and they always deliver high quality work with great speed. One of the best engineers I have ever worked with."*
+> — **Rushikesh Hiray**
+
+> *"He is very knowledgeable and communicative, and very dedicated to finding the right solution for my business needs. I would recommend him."*
+> — **Marielle Walter Rice**
+
+> *"Abdullah is a great collaborator with strong technical skills. Communication is smooth, he's reliable, and it's always a pleasure working with him."*
+> — **Carla**
+
+---
+
+## 📬 Get in Touch
+
+| Channel | Details |
+|---|---|
+| 🌐 **Portfolio** | [abdullahdar.com](https://www.abdullahdar.com) |
+| ✉️ **Email** | [abdullah@abdullahdar.com](mailto:abdullah@abdullahdar.com) |
+| 📱 **WhatsApp** | [+92 325 8104949](https://wa.me/923258104949) |
+| 📅 **Book a Call** | [15-min AI Strategy Consultation](https://www.abdullahdar.com) |
 
 ---
 
 <div align="center">
 
-*Let's build the future of your business with AI.*
-
-**[Devantix Labs](https://www.devantixlabs.com) — Engineering AI for a Smarter Tomorrow**
+*Building intelligent systems that work in the real world.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6cfa,100:00c2ff&height=100&section=footer" width="100%"/>
 
