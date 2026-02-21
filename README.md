@@ -27,7 +27,7 @@ I'm an **AI Engineer** specializing in building production-grade intelligent sys
 
 I've delivered 25+ systems across **healthcare, fintech, e-commerce, education, and enterprise** domains — from initial architecture to live deployment.
 
-> 📅 [Book a 15-min AI Strategy Call](https://www.abdullahdar.com) · 🌐 [Portfolio](https://www.abdullahdar.com)
+> 📅 [Book a 15-min AI Strategy Call]([https://www.abdullahdar.com](https://calendly.com/abdullah-abdullahdar/new-meeting)) · 🌐 [Portfolio](https://www.abdullahdar.com)
 
 ---
 
@@ -113,7 +113,7 @@ I've delivered 25+ systems across **healthcare, fintech, e-commerce, education, 
 | 🌐 **Portfolio** | [abdullahdar.com](https://www.abdullahdar.com) |
 | ✉️ **Email** | [abdullah@abdullahdar.com](mailto:abdullah@abdullahdar.com) |
 | 📱 **WhatsApp** | [+92 325 8104949](https://wa.me/923258104949) |
-| 📅 **Book a Call** | [15-min AI Strategy Consultation](https://www.abdullahdar.com) |
+| 📅 **Book a Call** | [15-min AI Strategy Consultation](https://calendly.com/abdullah-abdullahdar/new-meeting) |
 
 ---
 
