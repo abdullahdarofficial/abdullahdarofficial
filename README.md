@@ -1,83 +1,136 @@
-<h1 align="center" style="font-size: 50px; margin-bottom: 0;">Hi, I'm Abdullah Dar 👋</h1>
-<h3 align="center" style="margin-top: 5px; font-weight: normal;">Founder & Chief AI Architect at <a href="https://www.devantixlabs.com" target="_blank">Devantix Labs</a> – Engineering AI for a Smarter Tomorrow</h3>
+<div align="center">
 
-<p align="center">
-  <strong>📫 Email:</strong> <a href="mailto:abdullah@devantixlabs.com">abdullah@devantixlabs.com</a>  
-  <br>
-  <strong>🔭 Focus:</strong> AI, Machine Learning, Full-Stack Development  
-  <br>
-  <strong>🌱 Exploring:</strong> Advanced AI Models, RAG Pipelines, SaaS Solutions
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:7c6cfa&height=200&section=header&text=Abdullah%20Dar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Chief%20AI%20Architect%20%7C%20Devantix%20Labs&descAlignY=58&descSize=17&descColor=c0d8f0" width="100%"/>
 
-<hr>
+<h3>Engineering AI for a Smarter Tomorrow</h3>
 
-<h2>💡 Mission Statement</h2>
 <p>
-  <em>“𝐋𝐞𝐭’𝐬 𝐛𝐮𝐢𝐥𝐝 𝐬𝐦𝐚𝐫𝐭 𝐀𝐈—𝐬𝐜𝐚𝐥𝐞 𝐟𝐚𝐬𝐭𝐞𝐫. 𝐖𝐨𝐫𝐤 𝐬𝐦𝐚𝐫𝐭𝐞𝐫.”</em>
+  <a href="https://www.devantixlabs.com">
+    <img src="https://img.shields.io/badge/🌐_devantixlabs.com-0d1117?style=for-the-badge&labelColor=00c2ff&color=0d1117"/>
+  </a>
+  <a href="mailto:abdullah@devantixlabs.com">
+    <img src="https://img.shields.io/badge/✉️_abdullah@devantixlabs.com-0d1117?style=for-the-badge&labelColor=7c6cfa&color=0d1117"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
 <p>
-  I help organizations eliminate inefficiency with intelligent AI automation—cutting costs, boosting productivity, and transforming data into decisions that drive growth.
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Full--Stack-00c2ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Exploring-RAG%20%7C%20AI%20Agents%20%7C%20SaaS-7c6cfa?style=flat-square"/>
 </p>
 
-<hr>
+</div>
 
-<h2>🚀 How I Deliver Business Impact with AI</h2>
-<ul>
-  <li><strong>Personalized Recommendation Systems:</strong> AI-driven recommendation engines for e-commerce, content platforms, and enterprise systems using collaborative filtering, embeddings, and hybrid techniques.</li>
-  <li><strong>AI Agents & Automation:</strong> Workflow automation across customer support, compliance, operations, finance, supply chain, HR onboarding, and fraud detection using LangChain, LangGraph, and n8n.</li>
-  <li><strong>RAG & Knowledge Retrieval:</strong> Context-aware AI with real-time enterprise data, powered by LLM Prompt Engineering and Retrieval-Augmented Generation.</li>
-  <li><strong>Generative AI for Business Growth:</strong> AI-powered content automation, market research automation, and chatbots.</li>
-  <li><strong>Enterprise-Grade AI for Web Integrations:</strong> Full-stack AI app development using OpenAI (GPT-4o, GPT-4, GPT-3.5), LLaMA 3, Claude, Gemini, Mistral, and custom LLMs.</li>
-  <li><strong>Robust AI Deployments:</strong> Scalable AI SaaS with Python, Django, FastAPI, Docker, Kubernetes, AWS, Azure, GCP, and CI/CD pipelines.</li>
-</ul>
+---
 
-<hr>
+## 🎯 Mission
 
-<h2>🏆 Why Leading Organizations Trust Me</h2>
-<ul>
-  <li>✔️ Enterprise-ready AI expertise that delivers beyond prototypes.</li>
-  <li>✔️ Advanced engineering skills in LLM fine-tuning, RAG pipelines, and production AI architectures.</li>
-  <li>✔️ Results-focused consulting to solve real business problems from day one.</li>
-  <li>✔️ Always up-to-date with cutting-edge AI tools and research.</li>
-</ul>
+> *"Let's build smart AI — scale faster. Work smarter."*
 
-<hr>
+I help organizations eliminate inefficiency through intelligent AI automation — cutting costs, boosting productivity, and transforming raw data into decisions that drive measurable growth.
 
-<h2>📌 Recent AI Projects Delivered</h2>
-<ul>
-  <li><strong>AI in Hiring:</strong> LLM-powered voice interview assistant for real-time candidate assessment and scoring.</li>
-  <li><strong>AI in Finance:</strong> Automated accounting workflows with anomaly detection and revenue forecasting.</li>
-  <li><strong>AI in Education:</strong> RAG-based assistant converting lectures into searchable insights.</li>
-  <li><strong>AI in Food & Travel:</strong> Personalized recommendation assistant for food and travel.</li>
-  <li><strong>AI in Gifting:</strong> Conversational AI that provides personalized gift ideas for e-commerce.</li>
-</ul>
+---
 
-<hr>
+## 🚀 How I Deliver Business Impact
 
-<h2>📂 Additional Notable Projects</h2>
-<ul>
-  <li><strong>Field Alpha:</strong> AI-powered scheduling & routing platform.</li>
-  <li><strong>Presents Chat:</strong> AI-powered gift recommendation platform.</li>
-  <li><strong>Lexium AI:</strong> RAG-powered conversational study assistant.</li>
-  <li><strong>FASTInfoBot:</strong> University chatbot for real-time student queries.</li>
-  <li><strong>SimpleRishta Recommender Engine:</strong> AI-based matchmaking system with a 30% improvement in match quality.</li>
-  <li><strong>AI-Powered E-commerce Recommender:</strong> Hybrid recommendation engine for product suggestions.</li>
-  <li><strong>AQUSYS Intelligence:</strong> AI-based interview automation system.</li>
-  <li><strong>AI Art Restorer:</strong> Neural network-based image restoration.</li>
-</ul>
+| Capability | What I Build |
+|---|---|
+| 🤖 **AI Agents & Automation** | Workflow automation across support, finance, HR, compliance & supply chain using LangChain, LangGraph & n8n |
+| 🔍 **RAG & Knowledge Retrieval** | Context-aware AI systems with real-time enterprise data via LLM Prompt Engineering & Retrieval-Augmented Generation |
+| 🎯 **Recommendation Systems** | AI-driven engines for e-commerce & content platforms using collaborative filtering, embeddings & hybrid techniques |
+| ✍️ **Generative AI for Growth** | Content automation, market research, and intelligent chatbots powered by the latest foundation models |
+| 🏗️ **Enterprise AI Integrations** | Full-stack AI apps using GPT-4o, LLaMA 3, Claude, Gemini, Mistral & custom LLMs |
+| ☁️ **Scalable AI Deployments** | Production-grade AI SaaS on AWS, Azure & GCP with Python, FastAPI, Docker, Kubernetes & CI/CD |
 
-<hr>
+---
 
-<p align="center">
-  <em>Let’s build the future of your business with AI.</em>
-  <br>
-  <strong>Devantix Labs — Engineering AI for a Smarter Tomorrow</strong>
-</p>
+## 🏆 Why Organizations Trust Me
 
+- ✅ **Enterprise-ready** — expertise that delivers well beyond prototypes into production
+- ✅ **Deep engineering** — LLM fine-tuning, RAG pipelines, and scalable AI architectures
+- ✅ **Results-first** — solving real business problems from day one, not just building demos
+- ✅ **Always current** — continuously integrating cutting-edge AI research and tooling
 
+---
 
+## 📌 Recent Projects Delivered
 
+<table>
+  <tr>
+    <td><b>🧑‍💼 AI in Hiring</b></td>
+    <td>LLM-powered voice interview assistant for real-time candidate assessment and automated scoring</td>
+  </tr>
+  <tr>
+    <td><b>💰 AI in Finance</b></td>
+    <td>Automated accounting workflows with anomaly detection and revenue forecasting</td>
+  </tr>
+  <tr>
+    <td><b>🎓 AI in Education</b></td>
+    <td>RAG-based assistant that converts lectures into searchable, queryable knowledge bases</td>
+  </tr>
+  <tr>
+    <td><b>✈️ AI in Food & Travel</b></td>
+    <td>Personalized recommendation assistant for curated food and travel experiences</td>
+  </tr>
+  <tr>
+    <td><b>🎁 AI in E-commerce</b></td>
+    <td>Conversational AI delivering personalized gift recommendations at scale</td>
+  </tr>
+</table>
 
+---
 
+## 📂 Notable Projects
 
+| Project | Description |
+|---|---|
+| **Field Alpha** | AI-powered scheduling & intelligent routing platform |
+| **Presents Chat** | Conversational AI gift recommendation engine |
+| **Lexium AI** | RAG-powered study assistant for interactive learning |
+| **FASTInfoBot** | University chatbot for real-time student query resolution |
+| **SimpleRishta Engine** | AI matchmaking system — 30% improvement in match quality |
+| **AQUSYS Intelligence** | End-to-end AI interview automation system |
+| **AI Art Restorer** | Neural network-based image restoration pipeline |
 
+---
+
+## 🧰 Tech Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Backend & Frontend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+<div align="center">
+
+*Let's build the future of your business with AI.*
+
+**[Devantix Labs](https://www.devantixlabs.com) — Engineering AI for a Smarter Tomorrow**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6cfa,100:00c2ff&height=100&section=footer" width="100%"/>
+
+</div>
