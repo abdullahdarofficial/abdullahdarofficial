@@ -124,3 +124,5 @@ I've delivered 25+ systems across **healthcare, fintech, e-commerce, education, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6cfa,100:00c2ff&height=100&section=footer" width="100%"/>
 
 </div>
+
+
